@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HelloDroid</string>
+    <string name="trans">trans</string>
+    <string name="hi">Hi!</string>
+    <string name="hello_my_deer_player">Hello, my deer player!</string>
+    <string name="play">play!</string>
+    <string name="health">Health:</string>
+    <string name="money">Money:</string>
+    <string name="others">Others:</string>
+    <string name="s100">Health: 100</string>
+    <string name="s40">Health: 40</string>
+    <string name="s20">Health:20</string>
+    <string name="s80">Health: 80</string>
+    <string name="s60">Health: 60</string>
+    <string name="s0">Health: 0</string>
+    <string name="m100">Money: 100</string>
+    <string name="m80">Money: 80</string>
+    <string name="m60">Money: 60</string>
+    <string name="m40">Money: 40</string>
+    <string name="m20">Money: 20</string>
+    <string name="m0">Money: 0</string>
+    <string name="buy">Buy!</string>
+    <string name="enemy_health">Enemy Health:</string>
+</resources>
